@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-one01
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c++,java,python
+- 🌱 I’m currently learning ...c,c++,java,python
 - 💞️ I’m looking to collaborate on ...programming
 - 📫 How to reach me ...ahad6326@gmail.com
 
